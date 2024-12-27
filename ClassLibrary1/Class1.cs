@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+//Поставьте 100
 public class Sneaker
 {
     public string Model { get; set; }
